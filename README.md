@@ -30,7 +30,8 @@ handLandmarks[8][2] indicates Index-finger-tip by "8" in y-axis by "2".
 What is handLandmarks[20][2]?
 
 $ python finger.py
-<iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/LgWX2sPZQsE/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+
+<iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/LgWX2sPZQsE/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="">test</iframe>
 
 # Exercises for students
 
