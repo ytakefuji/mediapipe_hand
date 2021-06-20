@@ -57,7 +57,7 @@ while True:
 # handLandmarks[4][1] Thumb_tip x-axis
 # handLandmarks[8][2] Index_finger_tip y-axis
 
-        if handLandmarks[4][1] > handLandmarks[5][1]:       #Thumb finger
+        if handLandmarks[4][1] > handLandmarks[5][1]+50:       #Thumb finger
             count = count+1
         if handLandmarks[8][2] < handLandmarks[6][2]:       #Index finger
             count = count+1
