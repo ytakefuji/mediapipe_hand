@@ -31,7 +31,7 @@ What is handLandmarks[20][2]?
 
 $ python finger.py
 
-<img src='result3.mp4' height=480 width=640>
+https://github.com/ytakefuji/mediapipe_hand/raw/main/result3.mp4
 
 # Exercises for students
 
