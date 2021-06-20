@@ -31,6 +31,8 @@ What is handLandmarks[20][2]?
 
 $ python finger.py
 
+<img src='result3.mp4' height=480 width=640>
+
 # Exercises for students
 
 Build a stone-paper-scissors or rock-paper-scissors detection system.
