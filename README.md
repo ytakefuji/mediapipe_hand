@@ -19,7 +19,7 @@ A hand can be detected and 21 points of five fingers can be generated:
 
 <img src="hand.png" height=260 width=770 >
 
-handLandmarks[ ][ ] can identify a position of 21 points and an axis of x or y.
+handLandmarks[ ][ ] can identify a position of 21 points by the first index and an axis of x or y by the second index.
 
 handLandmarks[4][1] indicates Thumb-finger-tip "4" of x-axis "1".
 
