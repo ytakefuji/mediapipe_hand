@@ -31,6 +31,8 @@ What is handLandmarks[20][2]?
 
 $ python finger.py
 
+https://www.youtube.com/watch?v=Se1nNhYF9xc
+
 [![result video]()](https://www.youtube.com/watch?v=Se1nNhYF9xc)
 
 # Exercises for students
