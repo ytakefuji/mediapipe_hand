@@ -1,7 +1,7 @@
 # mediapipe_hand
-mediapipe is a useful library for detecting the target objects including hands, faces, iris, pose...
+mediapipe developed by Google is a useful library for detecting the target objects including hands, faces, iris, pose...
 
-This repository shows how to install and use mediapipe using hands for locating fingers.
+This repository shows how to install and use mediapipe for locating fingers of a hand.
 
 # How to install mediapipe
 
