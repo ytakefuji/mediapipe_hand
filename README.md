@@ -28,3 +28,8 @@ handLandmarks[8][2] indicates Index-finger-tip "8" of y-axis "2".
 What is handLandmarks[20][2]?
 
 $ python finger.py
+
+# Exercises for students
+
+Build a stone-paper-scissors or rock-paper-scissors detection system.
+
