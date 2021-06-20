@@ -31,7 +31,7 @@ What is handLandmarks[20][2]?
 
 $ python finger.py
 
-https://www.youtube.com/watch?v=Se1nNhYF9xc
+<img src="https://www.youtube.com/watch?v=Se1nNhYF9xc" height=480 width 640>
 
 [![result video]()](https://www.youtube.com/watch?v=Se1nNhYF9xc)
 
