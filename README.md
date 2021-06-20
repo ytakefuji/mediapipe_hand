@@ -1,7 +1,8 @@
 # mediapipe_hand
-mediapipe developed by Google is a useful library for detecting the target objects including hands, faces, iris, pose...
+mediapipe developed by Google is a useful library for detecting the target objects 
+including hands, faces, iris, pose...
 
-This repository shows how to install and use mediapipe for locating fingers of a hand in 2D-dimension: x-axis and y-axis coordinates.
+This repository shows how mediapipe can be used to recognize the two-dimensional coordinates (X and Y axes) of a 21-point hand skeleton.
 
 # How to install mediapipe
 
@@ -15,16 +16,16 @@ $ pip install mediapipe
 
 # How to run finger.py
 
-A hand can be detected and 2D (x,y) coordinates of 21 points of 
-five fingers can be generated:
+A right hand can be detected and 2D (x,y) coordinates of 21 points of 
+five fingers can be recognized:
 
 <img src="hand.png" height=260 width=770 >
 
 handLandmarks[ ][ ] can determine a position of 21 points by the first index and an axis of x or y by the second index.
 For example, 
-handLandmarks[4][1] indicates Thumb-finger-tip "4" of x-axis "1".
+handLandmarks[4][1] indicates Thumb-finger-tip by "4" in x-axis by "1".
 
-handLandmarks[8][2] indicates Index-finger-tip "8" of y-axis "2".
+handLandmarks[8][2] indicates Index-finger-tip by "8" in y-axis by "2".
 
 What is handLandmarks[20][2]?
 
