@@ -31,7 +31,7 @@ What is handLandmarks[20][2]?
 
 $ python finger.py
 
-<iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/LgWX2sPZQsE/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="">test</iframe>
+[![result video]()](https://youtu.be/Se1nNhYF9xc)
 
 # Exercises for students
 
