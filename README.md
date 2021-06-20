@@ -1,1 +1,3 @@
 # mediapipe_hand
+mediapipe is a useful library for detecting the target objects including hands, faces,...
+
