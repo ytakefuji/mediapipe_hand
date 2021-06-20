@@ -52,10 +52,10 @@ while True:
     x=0
     y=0
     if(len(handLandmarks) != 0):
-# handLandmarks[finger position][x or y] indicates finger positions.
+# handLandmarks[point of 21 points][x or y] indicates finger positions.
 # see details: https://google.github.io/mediapipe/solutions/hands
-# handLandmarks[4][1] Thumb_tip x-axis
-# handLandmarks[8][2] Index_finger_tip y-axis
+# handLandmarks[4][1] 4->Thumb_tip 1->x-axis
+# handLandmarks[8][2] 8->Index_finger_tip 2->y-axis
 
         if handLandmarks[4][1] > handLandmarks[5][1]+50:       #Thumb finger
             count = count+1
