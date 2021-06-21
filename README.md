@@ -29,7 +29,7 @@ handLandmarks[8][2] indicates Index-finger-tip by "8" in y-axis by "2".
 
 What is handLandmarks[20][2]?
 
-What is handLandmarks[20][3]?
+What is handLandmarks[4][3]?
 
 $ python finger.py
 
