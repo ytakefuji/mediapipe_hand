@@ -29,6 +29,8 @@ handLandmarks[8][2] indicates Index-finger-tip by "8" in y-axis by "2".
 
 What is handLandmarks[20][2]?
 
+What is handLandmarks[20][3]?
+
 $ python finger.py
 
 <img src="https://github.com/ytakefuji/mediapipe_hand/raw/main/result3.gif" width=320 height=240>
