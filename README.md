@@ -40,5 +40,17 @@ $ python finger.py
 
 Build a stone-paper-scissors or rock-paper-scissors detection system.
 
-# How to 
+# How to overlay two images using cv2
+<pre>
+Hints:
+import cv2
+g=cv2.imread('goo.png') 
+bg=cv2.imread('background.png')
+# locating goo.png on background.png at x=10 and y=20
+x=10
+y=20
+bg[y:y+g.shape[1],x:x+g.shape[0]]=g
+cv2.imshow("testing",bg)
+cv2.waitKey(1)
+</pre>
 
