@@ -40,3 +40,5 @@ $ python finger.py
 
 Build a stone-paper-scissors or rock-paper-scissors detection system.
 
+# How to 
+
