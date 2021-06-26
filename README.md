@@ -40,7 +40,7 @@ $ python finger.py
 
 1.Build a stone-paper-scissors or rock-paper-scissors detection system.
 
-2. Build a counting program.
+2.Build a counting program.
 
 For example, 050505 => "5" x 3 time
 
