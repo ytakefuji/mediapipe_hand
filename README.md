@@ -38,7 +38,15 @@ $ python finger.py
 
 # Exercises for students
 
-Build a stone-paper-scissors or rock-paper-scissors detection system.
+1.Build a stone-paper-scissors or rock-paper-scissors detection system.
+
+2. Build a counting program.
+
+For example, 050505 => "5" x 3 time
+
+0404040404 -> "4" x5 times
+
+
 
 # How to overlay two images using cv2
 <pre>
