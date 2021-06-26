@@ -54,3 +54,16 @@ cv2.imshow("testing",bg)
 cv2.waitKey(1)
 </pre>
 
+# how to run fingerpic.py
+<pre>
+$ python fingerpic.py
+
+One finger draws.
+Two fingers lift the pen.
+Four fingers can save a drawn picture as r.png.
+Three fingers can terminate this program.
+</pre>
+
+# result
+<img src='r.gif' width=640 height=480>
+<img src='r.png' width=640 height=480>
