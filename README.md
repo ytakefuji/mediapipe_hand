@@ -65,5 +65,5 @@ Three fingers can terminate this program.
 </pre>
 
 # result
-<img src='r.gif' width=640 height=480>
-<img src='r.png' width=640 height=480>
+<img src='4ji.gif' width=640 height=480>
+<img src='4ji.png' width=640 height=480>
