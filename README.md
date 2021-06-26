@@ -66,8 +66,8 @@ cv2.waitKey(1)
 <pre>
 $ python fingerpic.py
 
-One finger draws.
-Two fingers lift the pen.
+One finger draws by tip of index-finger.
+Two fingers move the pen without drawing.
 Four fingers can save a drawn picture as r.png.
 Three fingers can terminate this program.
 </pre>
