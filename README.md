@@ -38,15 +38,23 @@ $ python finger.py
 
 # Exercises for students
 
-1.Build a stone-paper-scissors or rock-paper-scissors detection system.
+1.Build a stone-paper-scissors or rock-paper-scissors detection system (Janken recognition).
 
-2.Build a counting program.
+1.1 recognized shape name (stone, paper or scssors) should be displayed.
+
+1.2 recognized shape should be overlayed on the screen.
+
+Hint is given below.
+
+2.Build a finger-gesture counting program.
 
 For example, 050505 => "5" x 3 time
 
 0404040404 -> "4" x5 times
 
+3. Build a drawing-in-the-air program, fingerpic.py .
 
+Hint is given below demos.
 
 # How to overlay two images using cv2
 <pre>
