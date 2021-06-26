@@ -52,7 +52,7 @@ For example, 050505 => "5" x 3 time
 
 0404040404 -> "4" x5 times
 
-3. Build a drawing-in-the-air program, fingerpic.py .
+3.Build a drawing-in-the-air program, fingerpic.py .
 
 Hint is given below demos.
 
