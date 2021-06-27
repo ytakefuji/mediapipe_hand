@@ -81,6 +81,7 @@ Three fingers can terminate this program.
 </pre>
 
 # result
+Gestures                                saved results
 <img src='A.gif' width=320 height=240> <img src='A.png' width=320 height=240>
 
 <img src='no.gif' width=320 height=240> <img src='no.png' width=320 height=240>
