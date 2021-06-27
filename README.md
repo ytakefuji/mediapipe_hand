@@ -40,11 +40,11 @@ $ python finger.py
 
 1.Build a stone-paper-scissors or rock-paper-scissors detection system (Janken recognition).
 
-1.1 recognized shape name (stone, paper or scssors) should be displayed.
+1.1 recognized hand shape string name (stone, paper or scssors) should be displayed.
 
-1.2 recognized shape should be overlayed on the screen.
+1.2 recognized shape (image) should be overlayed on the screen.
 
-Hint is given below.
+Hint is given below using overlay images.
 
 2.Build a finger-gesture counting program.
 
