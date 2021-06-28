@@ -49,6 +49,7 @@ cam = cv2.VideoCapture(0)
 
 while True:
     status, image = cam.read()
+    image =cv2.flip(image,1)
     handLandmarks = handDetector.findHandLandMarks(image=image, draw=True)
     count=0
     x=0
@@ -59,7 +60,7 @@ while True:
 # handLandmarks[4][1] 4->Thumb_tip 1->x-axis
 # handLandmarks[8][2] 8->Index_finger_tip 2->y-axis
 
-        if handLandmarks[4][1] > handLandmarks[5][1]+50:       #Thumb finger
+        if handLandmarks[4][1]+50 < handLandmarks[5][1]:       #Thumb finger
             count = count+1
         if handLandmarks[8][2] < handLandmarks[6][2]:       #Index finger
             count = count+1
