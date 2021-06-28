@@ -89,3 +89,5 @@ Gestures                                saved results
 <img src='no.gif' width=320 height=240> <img src='no.png' width=320 height=240>
 
 <img src='4ji.gif' width=320 height=240> <img src='4ji.png' width=320 height=240>
+
+<img src='heno.gif' width=320 height=180> <img src='heno.png' width=320 height=180>
