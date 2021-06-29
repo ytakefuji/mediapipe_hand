@@ -94,5 +94,15 @@ Gestures                                saved results
 
 <img src='take.gif' width=320 height=180> <img src='take.png' width=320 height=180>
 
+# How to run fingermath.py
+
+fingermath.py is a program for drawing a formula, for example, 4-5.
+Drawing the formula by using a single finger. Move a pen by two fingers.
+Four fingers can save the formula for calculating it. 
+The result will be shown on the screen.
+
+$ python fingermath.py
+
+
 <img src='4-5.gif' width=320 height=240> 
 
