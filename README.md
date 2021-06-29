@@ -106,3 +106,4 @@ $ python fingermath.py
 
 <img src='4-5.gif' width=320 height=240> 
 
+<img src='3-2.png' width=320 height=240><img src='.png' width=320 height=240>
