@@ -102,12 +102,17 @@ Four fingers can save the formula for calculating it.
 The result will be shown on the screen.
 
 $ python fingermath.py
-
-
+<pre>
+4-5=?                                         3-8=?
+</pre>
 <img src='4-5.gif' width=320 height=180> <img src='3-8.gif' width=320 height=240>
 
 <img src='3-2.png' width=320 height=240> <img src='3-8.png' width=320 height=240>
-
+<pre>
+5-3=?                                          4-5-3=?
+</pre>
 <img src='5-3.gif' width=320 height=240> <img src='4-5-3.gif' width=320 height=240>
-
+<pre>
+2-3-5=?
+</pre>
 <img src='2-3-5.gif' width=320 height=240>
