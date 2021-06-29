@@ -93,3 +93,6 @@ Gestures                                saved results
 <img src='heno.gif' width=320 height=180> <img src='heno.png' width=320 height=180>
 
 <img src='take.gif' width=320 height=180> <img src='take.png' width=320 height=180>
+
+<img src='4-5.gif' width=320 height=240> 
+
