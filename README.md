@@ -116,3 +116,8 @@ $ python fingermath.py
 2-3-5=?
 </pre>
 <img src='2-3-5.gif' width=320 height=240>
+<pre>
+2-3/5=?
+</pre>
+<img src='2-3divide_by5.gif' width=320 height=240>
+
