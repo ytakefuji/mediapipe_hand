@@ -103,8 +103,10 @@ The result will be shown on the screen.
 "L" represents "1".
 "F" or "5" represents "5".
 "P" represents "+" operator.
+"W" represents "-" operator.
 "V" represents "/" division operator.
 "M" represents "*" multiplication operator.
+
 
 $ python fingermath.py
 <pre>
