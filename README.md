@@ -120,4 +120,5 @@ $ python fingermath.py
 2-3/5=?
 </pre>
 <img src='2-3divide_by5.gif' width=320 height=240>
+<img src='10plus2.gif' width=320 height=240>
 
