@@ -122,4 +122,4 @@ $ python fingermath.py
 <img src='2-3divide_by5.gif' width=320 height=240>
 <img src='10plus2.gif' width=320 height=240>
 <img src='34M5.gif' width=320 height=240>
-<img src='67divide8.gif' width=320 height=240>
+<img src='67divided8.gif' width=320 height=240>
