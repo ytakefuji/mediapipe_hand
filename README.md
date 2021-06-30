@@ -132,7 +132,5 @@ $ python fingermath.py
 <img src='67divided8.gif' width=320 height=240>
 <img src='9-0.gif' width=320 height=240>
 <img src='Lw3.gif' width=320 height=240>
-<pre>
-2**8=?
-</pre>
+<pre> 2**8=? </pre>
 <img src='2^8.gif' width=320 height=240><img src='2^8.png' width=320 height=240>
