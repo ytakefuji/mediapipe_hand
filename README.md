@@ -123,3 +123,4 @@ $ python fingermath.py
 <img src='10plus2.gif' width=320 height=240>
 <img src='34M5.gif' width=320 height=240>
 <img src='67divided8.gif' width=320 height=240>
+<img src='9-0.gif' width=320 height=240>
