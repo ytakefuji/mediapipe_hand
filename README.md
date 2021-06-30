@@ -135,4 +135,4 @@ $ python fingermath.py
 <pre>
 2**8=?
 </pre>
-<img src='2^8.gif' width=320 height=240> <img src='2^8.png' width=320 height=240>
+<img src='2^8.gif' width=320 height=240><img src='2^8.png' width=320 height=240>
