@@ -106,7 +106,7 @@ The result will be shown on the screen.
 "W" represents "-" operator.
 "V" represents "/" division operator.
 "M" represents "*" multiplication operator.
-
+"&" represents "**" exponential operator.
 
 $ python fingermath.py
 <pre>
