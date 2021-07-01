@@ -136,4 +136,4 @@ $ python fingermath.py
 <img src='2^8.gif' width=320 height=240> <img src='2^8.png' width=320 height=240>
 
 <pre> a3A=? -> sqrt(3)=?</pre>
-<img src='sqrt.gif' width=320 height=240> 
+<img src='sqrt.gif' width=320 height=240> <img src='sqrt13.gif' width=320 height=240> 
