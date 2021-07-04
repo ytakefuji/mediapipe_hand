@@ -166,5 +166,5 @@ $ python fingermath.py
 <pre> a3A=? -> sqrt(3)=?                            sqrt(13)=? </pre>
 <img src='sqrt.gif' width=320 height=240> <img src='sqrt13.gif' width=320 height=240> 
 
-<pre> 128v3=? -> 128/3=?                           
-<img src='128div3.gif' width=320 height=240> 
+<pre> 128v3=? -> 128/3=?                      a11AV3=? -> sqrt(11)/3 </pre>            
+<img src='128div3.gif' width=320 height=240> <img src='sqrt(11)div3.gif' width=320 height=240> 
