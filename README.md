@@ -52,9 +52,15 @@ $ python fingerv3.py
 
 <img src="fingerv3.gif" width=320 height=240>
 
-Hint is given below using overlay images section.
+Hint:
+Overlay images program can be used.
 
-1.3 
+1.3 Build a 10-second recoding program of fingerv3.py
+
+Hint:
+out=cv2.VideoWriter('r.mp4',cv2.VideoWriter_fourcc(*'mp4v'),24,size)
+
+out.write(imageframe)
 
 2.Build a finger-gesture counting program.
 
