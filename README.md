@@ -118,13 +118,22 @@ fingermath.py is a program for drawing a formula, for example, 4-5.
 Drawing the formula by using a single finger. Move a pen by two fingers.
 Four fingers can save the formula for calculating it. 
 The result will be shown on the screen.
+
 "L" represents "1".
-"F" or "5" represents "5".
+
+"S" or "5" represents "5".
+
 "P" represents "+" operator.
-"W" represents "-" operator.
+
+"W" or "-" represents "-" operator.
+
 "V" represents "/" division operator.
+
 "M" represents "*" multiplication operator.
-"&" represents "**" exponential operator.
+
+"&" represents "\**" exponential operator.
+
+"a" and "A" represent sqrt() function. a13A represents sqrt(13).
 
 $ python fingermath.py
 <pre>
