@@ -163,5 +163,5 @@ $ python fingermath.py
 <pre> 2**8=? </pre>
 <img src='2^8.gif' width=320 height=240> <img src='2^8.png' width=320 height=240>
 
-<pre> a3A=? -> sqrt(3)=?</pre>
+<pre> a3A=? -> sqrt(3)=?                            sqrt(13)=? </pre>
 <img src='sqrt.gif' width=320 height=240> <img src='sqrt13.gif' width=320 height=240> 
