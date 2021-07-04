@@ -50,7 +50,7 @@ $ python fingerv2.py
 
 $ python fingerv3.py
 
-<img src="fingerv3.gif" width=640 height=480>
+<img src="fingerv3.gif" width=320 height=240>
 
 Hint is given below using overlay images section.
 
