@@ -44,7 +44,7 @@ $ python fingerv0.py
 
 $ python fingerv2.py
 
-<img src="fingerv2.gif" width=640 height=480>
+<img src="fingerv2.gif" width=320 height=240>
 
 1.2 recognized shape (image) should be overlayed on the screen.
 
