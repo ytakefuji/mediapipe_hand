@@ -31,7 +31,7 @@ What is handLandmarks[20][2]?
 
 What is handLandmarks[4][3]?
 
-$ python finger.py
+$ python fingerv0.py
 
 <img src="https://github.com/ytakefuji/mediapipe_hand/raw/main/result3.gif" width=320 height=240>
 
@@ -42,9 +42,19 @@ $ python finger.py
 
 1.1 recognized hand shape string name (stone, paper or scssors) should be displayed.
 
+$ python fingerv2.py
+
+<img src="fingerv2.gif" width=640 height=480>
+
 1.2 recognized shape (image) should be overlayed on the screen.
 
-Hint is given below using overlay images.
+$ python fingerv3.py
+
+<img src="fingerv3.gif" width=640 height=480>
+
+Hint is given below using overlay images section.
+
+1.3 
 
 2.Build a finger-gesture counting program.
 
@@ -53,6 +63,8 @@ For example, 050505 => "5" x 3 time
 0404040404 -> "4" x5 times
 
 3.Build a drawing-in-the-air program, fingerpic.py .
+
+$ python fingerpic.py
 
 Hint is given below demos.
 
