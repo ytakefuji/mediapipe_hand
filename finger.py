@@ -4,11 +4,24 @@ import mediapipe as mp
 import cv2
 import math
 import numpy as np
+import os
 
 Hands = mp.solutions.hands
 Draw = mp.solutions.drawing_utils
 
+from multiprocess import Process
+import pyautogui
+w,h=pyautogui.size()
+screen=np.ones((h,w))
 
+def ws():
+ while True:
+  cv2.imshow("white",screen)
+  cv2.moveWindow("white",0,0)
+  if cv2.waitKey(1) == ord('q'):
+   cv2.destroyWindow("white")
+   break
+ 
 class HandDetector:
     def __init__(self, max_num_hands=2, min_detection_confidence=0.5, min_tracking_confidence=0.5):
         self.hands = Hands.Hands(max_num_hands=max_num_hands, min_detection_confidence=min_detection_confidence,
@@ -44,10 +57,10 @@ class HandDetector:
 
 
 handDetector = HandDetector(min_detection_confidence=0.7)
-cam = cv2.VideoCapture(0)
 
-
-while True:
+def main():
+ cam = cv2.VideoCapture(0)
+ while True:
     status, image = cam.read()
     image =cv2.flip(image,1)
     handLandmarks = handDetector.findHandLandMarks(image=image, draw=True)
@@ -75,5 +88,19 @@ while True:
     cv2.putText(image, str(count), (45, 375), cv2.FONT_HERSHEY_SIMPLEX, 5, (255, 0, 0), 25)
     cv2.putText(image, "x="+str(x), (25, 75), cv2.FONT_HERSHEY_SIMPLEX, 2, (255, 0, 0), 5)
     cv2.putText(image, "y="+str(y), (25, 175), cv2.FONT_HERSHEY_SIMPLEX, 2, (255, 0, 0), 5)
-    cv2.imshow("Volume", image)
-    cv2.waitKey(1)
+    cv2.imshow("result", image)
+    cv2.moveWindow("result",600,400)
+    cv2.setWindowProperty("result", cv2.WND_PROP_TOPMOST, 1)    
+    if cv2.waitKey(1) == ord('q'):
+     cam.release()
+     cv2.destroyWindow("result")
+     break
+
+
+if __name__ == '__main__':
+ p=Process(target=ws)
+ p.start()
+ main()
+ p.join()
+ os._exit(0) 
+
