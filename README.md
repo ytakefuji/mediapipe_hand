@@ -1,4 +1,9 @@
 # mediapipe_hand
+
+For Mac users, there is no opencv-python version to use video write and picture-write.
+
+https://github.com/air-gh/opencv-video-mac
+
 mediapipe developed by Google is a useful library for detecting the target objects 
 including hands, faces, iris, pose...
 
