@@ -19,7 +19,8 @@ $ pip install opencv-python
 
 $ pip install mediapipe
 
-# How to run finger.py
+# How to run fingerv0.py
+
 
 A right hand can be detected and 2D (x,y) coordinates of 21 points of 
 five fingers can be recognized:
